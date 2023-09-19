@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malakalhabdan
-- 👀 I’m interested in Quantum Information 
+- 👀 I’m interested in Quantum Computation 
 - 🌱 I’m currently learning Quantum computing 
 - 💞️ I’m looking to collaborate on this field 
 
